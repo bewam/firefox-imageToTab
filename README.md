@@ -1,7 +1,12 @@
 #Image to tab
 An addon to open a image in a new tab.
 
-#INSTALL
+# INSTALL
+
+* build and/or
+* download the .xpi and install with firefox.
+
+#BUILD
 
 __requirements__
 
