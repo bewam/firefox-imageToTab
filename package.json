@@ -1,0 +1,13 @@
+{
+  "title": "image to tab",
+  "name": "imagetotab",
+  "version": "0.0.1",
+  "description": "a addon to open a image in a new tab.",
+  "main": "index.js",
+  "author": "bewam",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions": {"private-browsing": true}
+}
