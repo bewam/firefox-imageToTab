@@ -1,7 +1,7 @@
-#image to tab
-a addon to open a image in a new tab.
+#Image to tab
+An addon to open a image in a new tab.
 
-#install
+#INSTALL
 
 __requirements__
 
