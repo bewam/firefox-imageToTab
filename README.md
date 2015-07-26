@@ -4,7 +4,7 @@ An addon to open a image in a new tab.
 # INSTALL
 
 * build and/or
-* download the .xpi and install with firefox.
+* [download the .xpi](https://github.com/bewam/firefox-imageToTab/raw/master/%40imagetotab-0.0.1.xpi) and install with firefox.
 
 #BUILD
 
